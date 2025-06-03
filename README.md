@@ -1,17 +1,36 @@
-# This is a basic console-based Chat developed with C++
+### This is a basic console-based Chat developed with C++ 💬
 
-Working on the basics of this currently, but it is one of my first projects in working with C++
+I have finally finished a rough draft of the application where basic functionality is working!
 
 This will allow users to create their own client and then communicate with other users via a TCP socket server
 for direct messages back and forth
 
+Currently this only works for a single local computer, but I want to add functionality for different computers to connect as well
+
 Trying to display and work on my Multithreading skills as well as Networking too!
 
-# Instructions
+## Instructions
 
-A guide on how to run this will come as development proceeds further into a testing state
+# For Repo Terminal usage
 
-Also, this will most likely have an executable along with it too which will be available for download
+1. Create a build directory: `mkdir build && cd build`
+
+2. Generate build files: `cmake ..`
+
+3. Build the project: `make`
+
+4. Run the server: `./quickchat server`
+
+5. Run clients in separate terminals: `./quickchat client`
+
+# For Executable usage (Executable is located in the "build" folder)
+
+1. Navigate to the executable folder
+
+2. Start a terminal at the folder location
+
+3. Select either of the following options: `./quickchat server` or `./quickchat client`
+
 
 # ATTENTION
 

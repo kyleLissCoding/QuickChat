@@ -1,0 +1,3 @@
+/Users/kyleliss/Documents/CPlusProjects/QuickChat/build/CMakeFiles/quickchat.dir
+/Users/kyleliss/Documents/CPlusProjects/QuickChat/build/CMakeFiles/edit_cache.dir
+/Users/kyleliss/Documents/CPlusProjects/QuickChat/build/CMakeFiles/rebuild_cache.dir
