@@ -1,4 +1,4 @@
-### This is a basic console-based Chat developed with C++ 💬
+# This is a basic console-based Chat developed with C++ 💬
 
 I have finally finished a rough draft of the application where basic functionality is working!
 
@@ -11,7 +11,7 @@ Trying to display and work on my Multithreading skills as well as Networking too
 
 ## Instructions
 
-# For Repo Terminal usage
+### For Repo Terminal usage
 
 1. Create a build directory: `mkdir build && cd build`
 
@@ -23,7 +23,7 @@ Trying to display and work on my Multithreading skills as well as Networking too
 
 5. Run clients in separate terminals: `./quickchat client`
 
-# For Executable usage (Executable is located in the "build" folder)
+### For Executable usage (Executable is located in the "build" folder)
 
 1. Navigate to the executable folder
 
